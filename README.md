@@ -140,4 +140,3 @@ Check the result in Harbor project: <br>
 - https://docs.digitalocean.com/products/kubernetes/
 - https://www.digitalocean.com/community/tech_talks/getting-started-with-kubernetes-on-digitalocean
 - https://goharbor.io/docs/2.4.0/install-config/harbor-ha-helm/
--
