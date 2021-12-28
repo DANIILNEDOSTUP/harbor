@@ -1,0 +1,13 @@
+# The values ​​that I changed before deploy
+expose:
+  type: loadBalancer
+  tls:
+    enabled: true
+    certSource: auto
+    auto:
+      commonName: "161.35.246.128"
+  loadBalancer:
+    name: harbor
+    IP: "161.35.246.128"
+externalURL: https://my.local.harbor
+harborAdminPassword: "Harbor12345"
