@@ -7,7 +7,7 @@ https://www.digitalocean.com/community/pages/kubernetes-challenge<br>
 _Description: goal of the project is deploy an internal container registry - Harbor (https://goharbor.io/)_ <br>
 
 **Harbor registry**: https://161.35.246.128/<br>
-**Small demo**: <br>
+**Small demo**: https://youtu.be/5RUyTMY4QlQ <br>
 
 ## Steps involved to complete the challenge:<br>
 
@@ -134,4 +134,10 @@ docker push my.local.harbor/daniil/nginx:v2
 Check the result in Harbor project: <br>
 ![setting_mysql_operator](images/image.jpg)
 
-### Congratulation! You have a Harbor registry! 😄
+### Congratulations! You have a Harbor registry! 😄
+----
+## Useful links:
+- https://docs.digitalocean.com/products/kubernetes/
+- https://www.digitalocean.com/community/tech_talks/getting-started-with-kubernetes-on-digitalocean
+- https://goharbor.io/docs/2.4.0/install-config/harbor-ha-helm/
+-
