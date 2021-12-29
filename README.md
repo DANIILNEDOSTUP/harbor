@@ -106,7 +106,7 @@ Add exception to docker desktop:<br>
 -----
 ## Testing the result (+ small demo)
 
-**YouTube small demo here ->** <br>
+**YouTube small demo here ->** https://youtu.be/5RUyTMY4QlQ<br>
 
 Use Harbor as an internal registry:<br>
 ```
