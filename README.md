@@ -7,7 +7,7 @@ https://www.digitalocean.com/community/pages/kubernetes-challenge<br>
 _Description: goal of the project is deploy an internal container registry - Harbor (https://goharbor.io/)_ <br>
 
 **Harbor registry**: https://161.35.246.128/<br>
-**Small demo**: https://youtu.be/5RUyTMY4QlQ <br>
+**Small demo**: https://youtu.be/yr9I_htGURI <br>
 
 ## Steps involved to complete the challenge:<br>
 
@@ -106,7 +106,7 @@ Add exception to docker desktop:<br>
 -----
 ## Testing the result (+ small demo)
 
-**YouTube small demo here ->** https://youtu.be/5RUyTMY4QlQ<br>
+**YouTube small demo here ->** https://youtu.be/yr9I_htGURI<br>
 
 Use Harbor as an internal registry:<br>
 ```
