@@ -6,7 +6,7 @@ https://www.digitalocean.com/community/pages/kubernetes-challenge<br>
 
 _Description: goal of the project is deploy an internal container registry - Harbor (https://goharbor.io/)_ <br>
 
-**Harbor registry**: https://161.35.246.128/<br>
+**Harbor registry**: https://161.35.246.128/ (deprecated)<br>
 **Small demo**: https://youtu.be/yr9I_htGURI <br>
 
 ## Steps involved to complete the challenge:<br>
